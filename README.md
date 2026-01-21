@@ -8,7 +8,7 @@
 
 ### About Me
 -  Currently strengthening skills in **C, C++, Java, and Python**
--  Learning **Data Structures, Algorithms, and Time Complexity**
+-  Learning **Data Structures, Algorithms and Time Complexity**
 -  Gaining knowledge in **DBMS and SQL Queries**
 -  Practicing problem-solving to improve coding efficiency
 -  Open to collaboration and learning from real-world projects
@@ -30,4 +30,4 @@ To apply my technical knowledge and problem-solving skills in software developme
 ---
 
 ###  Connect with Me
-- GitHub: https://github.com/sreemapriyadharshini-sudo
+- GitHub: https://github.com/sreemapriyadharshini
