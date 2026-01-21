@@ -1,4 +1,4 @@
-## Hi 👋 I'm Sreemapriyadharshini  
+## Hi  I'm Sreemapriyadharshini  
 
  Second Year Computer Science Engineering Student  
  Enthusiastic about Coding and Logical Thinking  
