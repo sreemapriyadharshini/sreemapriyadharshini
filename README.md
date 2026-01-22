@@ -31,4 +31,4 @@ To apply my technical knowledge and problem-solving skills in software developme
 
 ###  Connect with Me
 - GitHub: https://github.com/sreemapriyadharshini
-- leetcode:![LeetCode Stats](https://leetcard.jacoblin.cool/sreemapriyadharshini?theme=light&font=Manrope&ext=contest)
+-![LeetCode Stats](https://leetcard.jacoblin.cool/sreemapriyadharshini?ext=heatmap)
