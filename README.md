@@ -20,7 +20,7 @@
 ---
 
 ###  Career Objective
-To build a strong foundation in computer science fundamentals and software development, enhance my problem-solving and coding skills, and gain practical experience through projects and internships. My goal is to continuously learn new technologies, apply my knowledge to real-world problems, and grow into a responsible and skilled software engineer.
+To build a strong foundation in computer science fundamentals and software development, enhance my problem-solving and coding skills and gain practical experience through projects and internships. My goal is to continuously learn new technologies, apply my knowledge to real-world problems and grow into a responsible and skilled software engineer.
 
 ---
 
@@ -28,4 +28,4 @@ To build a strong foundation in computer science fundamentals and software devel
  ![LeetCode Stats](https://leetcard.jacoblin.cool/sreema07?theme=light&font=Noto%20Serif%20Display&ext=heatmap)
 ---
 ###  Connect with me
--https://github.com/sreemapriyadharshini
+-https://github.com/sreemapriyadharshini/sreemapriyadharshini
